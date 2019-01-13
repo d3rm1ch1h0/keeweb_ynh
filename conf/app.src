@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/keeweb/keeweb/archive/v1.7.2.tar.gz
-SOURCE_SUM=b21134757a83259c2a10c63f6a824876
+SOURCE_URL=https://github.com/keeweb/keeweb/archive/v1.7.3.tar.gz
+SOURCE_SUM=96145171487083f44e3e3b3177f9badeafea37ca
 SOURCE_SUM_PRG=md5sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
