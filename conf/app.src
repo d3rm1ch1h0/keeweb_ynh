@@ -1,5 +1,5 @@
 SOURCE_URL=https://github.com/keeweb/keeweb/archive/gh-pages.zip
-SOURCE_SUM=73ff6c1d52b2ef61ce951bcd602fa8af
+SOURCE_SUM=80bbab26ef182fa211631360bed9536b
 SOURCE_SUM_PRG=md5sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
