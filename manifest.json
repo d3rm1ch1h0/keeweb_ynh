@@ -6,7 +6,7 @@
 		"en": "Password manager compatible with KeePass.",
 		"fr": "Gestionnaire de mots de passe compatible avec KeePass."
 	},
-	"version": "1.7.3~ynh2",
+	"version": "1.7.4~ynh2",
 	"url": "https://keeweb.info/",
 	"license": "MIT",
 	"maintainer": {
